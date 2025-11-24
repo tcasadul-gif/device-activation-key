@@ -15,8 +15,8 @@
         "expirydate": "25-11-2025",
         "Allowoffline": false,
 
-        "station_code": "",
-        "activated": false,
-        "show_activation_dialogue": true
+        "station_code": "DHK",
+        "activated": true,
+        "show_activation_dialogue": false
     }
 ]
