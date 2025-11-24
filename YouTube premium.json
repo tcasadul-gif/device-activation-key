@@ -1,22 +1,10 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true,
-
-        "station_code": "",
-        "activated": false,
-        "show_activation_dialogue": true
-    },
-    {
         "device_id": "64e541e17474cfa2",
         "key": "Asadul1122",
         "expirydate": "25-11-2025",
         "Allowoffline": false,
 
-        "station_code": "DHK",
-        "activated": true,
-        "show_activation_dialogue": false
+        "activated": false
     }
 ]
