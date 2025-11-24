@@ -5,6 +5,5 @@
         "expirydate": "25-11-2025",
         "Allowoffline": false,
 
-        "activated": false
-    }
+        "activated": true   }
 ]
