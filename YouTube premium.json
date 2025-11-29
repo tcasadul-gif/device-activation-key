@@ -22,5 +22,11 @@
         "key": "Shamim1122",
         "expirydate": "30-01-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c12bf3ec8a57d6ed",
+        "key": "Aynul1122",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
