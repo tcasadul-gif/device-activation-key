@@ -28,5 +28,11 @@
         "key": "Aynul1122",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "973adda94e01143a",
+        "key": "Ismaile1122",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
