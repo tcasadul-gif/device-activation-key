@@ -40,5 +40,11 @@
         "key": "Ashik420",
         "expirydate": "30-11-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b17f363302d6301e",
+        "key": "Sohel1122Armi",
+        "expirydate": "30-11-2030",
+        "Allowoffline": false
     }
 ]
