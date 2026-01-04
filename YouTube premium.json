@@ -46,5 +46,11 @@
         "key": "Sohel1122Armi",
         "expirydate": "30-11-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cbf085519b84c060",
+        "key": "Alim1122",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
     }
 ]
